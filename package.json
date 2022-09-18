@@ -1,0 +1,17 @@
+{
+    "name": "socketio201",
+    "version": "1.0.0",
+    "description": "",
+    "main": "chat.js",
+    "scripts": {
+        "start": "nodemon slack.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.16.4",
+        "nodemon": "^2.0.15",
+        "socket.io": "^2.1.1"
+    }
+}
